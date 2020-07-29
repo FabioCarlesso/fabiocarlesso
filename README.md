@@ -2,6 +2,13 @@
 
 Entusiasta em desenvolvimento web e mobile, voltado para PHP e Java, apreciador de técnicas como Big Data, SEO, CMS e SCRUM.
 
+In my free time I like to play (and watch) soccer (⚽️), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) and eventually I like to philosophize about life with a beer (🍺).
+
+Would you like to find me?
+
+[![Blog Badge](https://img.shields.io/badge/Blog-felipefialho.com-black)](https://fabiocarlesso.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/fabio-carlesso)](https://linkedin.com/in/fabio-carlesso)
+
 <!--
 **FabioCarlesso/fabiocarlesso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
