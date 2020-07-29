@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Entusiasta em desenvolvimento web e mobile, voltado para PHP e Java, apreciador de técnicas como Big Data, SEO, CMS e SCRUM.
+
 <!--
 **FabioCarlesso/fabiocarlesso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
