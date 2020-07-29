@@ -6,7 +6,7 @@ In my free time I like to play (and watch) soccer (⚽️), to watch movies (�
 
 Would you like to find me?
 
-[![Blog Badge](https://img.shields.io/badge/Blog-felipefialho.com-black)](https://fabiocarlesso.com)
+[![Blog Badge](https://img.shields.io/badge/Blog-fabiocarlesso.com-black)](https://fabiocarlesso.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/fabio-carlesso)](https://linkedin.com/in/fabio-carlesso)
 
 <!--
