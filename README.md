@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-Entusiasta em desenvolvimento web e mobile, voltado para PHP e Java, apreciador de técnicas como Big Data, SEO, CMS, Scrum e atualmente aprendendo data science. 
+- For 9 years working with development (Java, Python and PHP) and project monitoring using agile techniques;
+- Graduated in Computer Science (2013);
+- Graduated in Java technology specialist (2016);
+- Scrum certification by EXIN Agile Scrum Foundation (2019);
+- Tech lead of Centro de Tecnologias Abertas e IoT at PTI (2020-Present). 
 
 <!--
 In my free time I like to play (and watch) soccer (⚽️), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) and eventually I like to philosophize about life with a beer (🍺).
