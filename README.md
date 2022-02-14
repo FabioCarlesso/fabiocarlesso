@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-In my free time I like to play (and watch) soccer (⚽️), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) and eventually I like to philosophize about life with a beer (🍺).
-Would you like to find me?
+In my free time I like to play (and watch) soccer (⚽️), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) and eventually I like to philosophize about life with a beer (🍺). I’m currently:
 
-- For 9 years working with development (Java, Python and PHP) and project monitoring using agile techniques;
+- Working with development (Java, Python and PHP) and project monitoring using agile techniques (2010);
 - Graduated in Computer Science (2013);
 - Graduated in Java technology specialist (2016);
 - Scrum certification by EXIN Agile Scrum Foundation (2019);
