@@ -57,10 +57,10 @@ Off-keyboard, I play (and watch) soccer ⚽, watch movies 🎞️ and series �
 
 <div align="center">
 
-[![Fabio's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabioCarlesso&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/FabioCarlesso)
+[![Fabio's GitHub stats](https://github-readme-stats.hackclub.dev/api?username=FabioCarlesso&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/FabioCarlesso)
 [![GitHub Streak](https://streak-stats.demolab.com?user=FabioCarlesso&theme=tokyonight&hide_border=true)](https://github.com/FabioCarlesso)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioCarlesso&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/FabioCarlesso)
+[![Top Languages](https://github-readme-stats.hackclub.dev/api/top-langs/?username=FabioCarlesso&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/FabioCarlesso)
 
 </div>
 
