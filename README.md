@@ -1,15 +1,16 @@
-<div align="center">
+<h1 align="center">Fabio Carlesso</h1>
+<p align="center"><i>Backend Developer · Java & Spring Boot · Foz do Iguaçu, Brasil</i></p>
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Fabio%20Carlesso&fontSize=50&fontAlignY=38&fontColor=ffffff&desc=Backend%20Developer%20%7C%20Java%20%26%20Spring%20Boot%20%7C%20Foz%20do%20Igua%C3%A7u,%20Brasil&descAlignY=58&descSize=16&animation=fadeIn)
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Backend+Developer+since+2010;Java+%2B+Spring+Boot+%2B+AWS;Building+APIs+that+scale;Banking+%E2%80%A2+Agile+%E2%80%A2+Cloud" alt="Typing SVG" /></a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Backend+Developer+since+2010;Java+%2B+Spring+Boot+%2B+AWS;Building+APIs+that+scale;Banking+%E2%80%A2+Agile+%E2%80%A2+Cloud)](https://git.io/typing-svg)
-
-[![Blog](https://img.shields.io/badge/Blog-fabiocarlesso.com-000?style=for-the-badge&logo=hashnode&logoColor=white)](https://fabiocarlesso.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-fabio--carlesso-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-carlesso)
-[![GitHub](https://img.shields.io/badge/GitHub-FabioCarlesso-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FabioCarlesso)
-[![Email](https://img.shields.io/badge/Email-fabio.carlesso%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabio.carlesso@gmail.com)
-
-</div>
+<p align="center">
+  <a href="https://fabiocarlesso.com"><img src="https://img.shields.io/badge/Blog-fabiocarlesso.com-000?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog" /></a>
+  <a href="https://www.linkedin.com/in/fabio-carlesso"><img src="https://img.shields.io/badge/LinkedIn-fabio--carlesso-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/FabioCarlesso"><img src="https://img.shields.io/badge/GitHub-FabioCarlesso-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:fabio.carlesso@gmail.com"><img src="https://img.shields.io/badge/Email-fabio.carlesso%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ---
 
@@ -55,14 +56,17 @@ Off-keyboard, I play (and watch) soccer ⚽, watch movies 🎞️ and series �
 
 ## GitHub stats
 
-<div align="center">
-
-[![Fabio's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FabioCarlesso&theme=tokyonight)](https://github.com/FabioCarlesso)
-[![GitHub Streak](https://streak-stats.demolab.com?user=FabioCarlesso&theme=tokyonight&hide_border=true)](https://github.com/FabioCarlesso)
-
-[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FabioCarlesso&theme=tokyonight)](https://github.com/FabioCarlesso)
-
-</div>
+<p align="center">
+  <a href="https://github.com/FabioCarlesso">
+    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FabioCarlesso&theme=github_dark" alt="GitHub stats" />
+  </a>
+  <a href="https://github.com/FabioCarlesso">
+    <img height="170" src="https://streak-stats.demolab.com?user=FabioCarlesso&theme=dark&hide_border=true" alt="GitHub streak" />
+  </a>
+  <a href="https://github.com/FabioCarlesso">
+    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FabioCarlesso&theme=github_dark" alt="Top languages" />
+  </a>
+</p>
 
 ---
 
