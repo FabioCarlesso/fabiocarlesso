@@ -15,7 +15,7 @@
 
 ## About me
 
-Backend Developer working in the banking sector, with **15+ years** of experience building and monitoring software using **Java, Spring Boot, Python** and agile practices. I enjoy designing clean REST APIs, breaking problems into testable pieces, and shipping things that hold up in production.
+Developer working in the banking sector, with **15+ years** of experience building and monitoring software using **Java, Spring Boot, Python** and agile practices. I enjoy designing clean REST APIs, breaking problems into testable pieces, and shipping things that hold up in production.
 
 Off-keyboard, I play (and watch) soccer ⚽, watch movies 🎞️ and series 📺, read books 📚, listen to music 🎵, and occasionally philosophize about the meaning of life, the universe, and everything (42) over a beer 🍺.
 
