@@ -15,6 +15,7 @@
 <p align="center">
   <a href="https://fos.fabiocarlesso.com"><img src="https://img.shields.io/badge/🟢_Live-fos.fabiocarlesso.com-2ea44f?style=for-the-badge" alt="FightOssStreak in production" /></a>
   <a href="https://app.carlessopilates.com.br"><img src="https://img.shields.io/badge/🟢_Live-app.carlessopilates.com.br-2ea44f?style=for-the-badge" alt="Carlesso Pilates in production" /></a>
+  <a href="https://cartola.fabiocarlesso.com"><img src="https://img.shields.io/badge/🟢_Live-cartola.fabiocarlesso.com-2ea44f?style=for-the-badge" alt="Cartola Odds in production" /></a>
 </p>
 
 ---
@@ -84,8 +85,8 @@ Off-keyboard, I play (and watch) soccer ⚽, watch movies 🎞️ and series �
 | 🥋 **[FightOssStreak](https://github.com/FabioCarlesso/FightOssStreak)** | Personal tool for reviewing and retaining what's learned on the mat, with gamification mechanics (skill tree, quizzes, streaks, spaced repetition). | Java · Spring Boot | 🟢 [fos.fabiocarlesso.com](https://fos.fabiocarlesso.com) |
 | 🧘 **[carlessopilatesapi](https://github.com/FabioCarlesso/carlessopilatesapi)** | REST API for managing patients and professionals of a pilates studio. | Spring Boot 3 · Java 21 | 🟢 [app.carlessopilates.com.br](https://app.carlessopilates.com.br) |
 | 🎨 **[carlessopilatesfe](https://github.com/FabioCarlesso/carlessopilatesfe)** | Web interface for pilates studio administration. | Angular 19 · TypeScript | 🟢 [app.carlessopilates.com.br](https://app.carlessopilates.com.br) |
-| 🏟️ **[cartolaoddsapi](https://github.com/FabioCarlesso/cartolaoddsapi)** | REST API to help build the best Cartola FC fantasy football team using odds-based heuristics. | Java · Spring Boot · Docker · Swagger · JUnit | — |
-| 💻 **[cartolaoddsfe](https://github.com/FabioCarlesso/cartolaoddsfe)** | Frontend for the Cartola Odds project. | TypeScript · Angular | — |
+| 🏟️ **[cartolaoddsapi](https://github.com/FabioCarlesso/cartolaoddsapi)** | REST API to help build the best Cartola FC fantasy football team using odds-based heuristics. | Java · Spring Boot · Docker · Swagger · JUnit | 🟢 [cartola.fabiocarlesso.com](https://cartola.fabiocarlesso.com) |
+| 💻 **[cartolaoddsfe](https://github.com/FabioCarlesso/cartolaoddsfe)** | Frontend for the Cartola Odds project. | TypeScript · Angular | 🟢 [cartola.fabiocarlesso.com](https://cartola.fabiocarlesso.com) |
 | 💰 **[goodfunds](https://github.com/FabioCarlesso/goodfunds)** | Personal finance MVP — end-to-end study project. | Java · Spring Boot | — |
 | 🧩 **[DesignPatterns](https://github.com/FabioCarlesso/DesignPatterns)** | Hands-on exploration of design patterns in Java. | Java | — |
 
